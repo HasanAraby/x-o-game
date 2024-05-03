@@ -1,0 +1,6 @@
+1-start page with faded image.
+2-routing between two pages{
+
+page1: start,
+page2:game,
+}
